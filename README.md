@@ -14,6 +14,8 @@ does not depend on a collaborator-owned private repository for its availability.
 | Content blob | `c1ec0ca394ec3b450116cc76741552948e9e2228` |
 | Mirrored on | 2026-08-20 |
 
+The mirrored document: [`docs/THESIS.md`](docs/THESIS.md).
+
 See [`PROVENANCE.md`](PROVENANCE.md) for verification steps and the divergences recorded
 at mirror time.
 
